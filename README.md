@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @iPsychonaut
-- 👀 I’m interested in Python, ML, Molecular Biology, Video Games, Entheogens
-- 🌱 I’m currently learning Python, ML, GML
-- 📫 How to reach me ian.bollinger@entheome.org/ian.michael.bollinger@gmail.com
-
-<!---
-iPsychonaut/iPsychonaut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Bioinformatician specializing in reproducible, containerized genome assembly and analysis pipelines for floral, fungal, and animal genomics. 10+ years integrating wet-lab molecular biology, analytical chemistry, and high-performance computing to design scalable workflows using Nextflow, Docker/Singularity, and Python. Published author in genome assembly and fungal genomics with extensive experience translating laboratory science into automated computational systems.
